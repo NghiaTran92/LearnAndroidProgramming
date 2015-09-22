@@ -8,4 +8,10 @@
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
     <string name="page_3">Page 3</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="staggered">Staggered</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
 </resources>

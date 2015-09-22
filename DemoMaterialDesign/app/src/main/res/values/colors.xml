@@ -12,6 +12,8 @@
 
     <color name="tab_color">#50E44424</color>
 
+    <color name="text_color_hint">#50E44424</color>
+
     <!--TextView-->
     <color name="text_color">#000</color>
 
